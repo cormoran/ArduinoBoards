@@ -15,8 +15,8 @@
 		    "category":"Contributed",		 
 		    "url":"https://github.com/cormoran/ArduinoBoards/raw/master/rokkooroshi_arduino_compatible_boards_v1.0.zip",
 		    "archiveFileName":"rokkooroshi_arduino_compatible_boards_v1.0.zip",		    
-		    "checksum":"SHA-256:cad0c9b51172cf75efec2c40b1428b7024df01bce70dc1bd127c73ab84a5e195",
-		    "size":"18959",
+		    "checksum":"SHA-256:506f2fb6dd3d45ae6d4da6fd8065ae2c7b0d4d3958455fc3689bcf6ec6806a03",
+		    "size":"15824",
 		    "boards":[
 			{ "name":"CanMotorBoard" },
 			{ "name":"CanServoBoard" },
